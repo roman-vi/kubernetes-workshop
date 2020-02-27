@@ -161,7 +161,7 @@ a) First release:
     or use `kubectl` commands:
 
     ```
-    kuebctl get deployments
+    kubectl get deployments
     kubectl get pods
     kubectl get services
 
